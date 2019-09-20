@@ -8,7 +8,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 0}
+  m_Script: {fileID: 11500000, guid: 28591884176a17046bb2e474408b040d, type: 3}
   m_Name: Stay In Radius
   m_EditorClassIdentifier: Assembly-CSharp::StayInRadiusBehaviour
   centre: {x: 0, y: 0}
